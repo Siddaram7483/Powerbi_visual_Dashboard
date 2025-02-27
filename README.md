@@ -32,19 +32,8 @@ Country
 Region
 
 Product
-![PowerBIdashboardMainImage](https://github.com/user-attachments/assets/c52f935c-b520-4379-8b84-d337070b0a2e)
-![PowerBi1stImage](https://github.com/user-attachments/assets/686cf990-2782-4b18-ab6e-f1ce3938293e)
-![PowerBi2stImage](https://github.com/user-attachments/assets/0dc83d80-dc42-420a-8d7f-e541ee360dfc)
-![PowerBi3stImage](https://github.com/user-attachments/assets/2363f9f9-4872-4d51-8230-356b159fe056)
-![PowerBi4stImage](https://github.com/user-attachments/assets/e683ecbd-2af7-49fa-b08f-de19a796e784)
-![PowerBi5stImage](https://github.com/user-attachments/assets/b7a464b4-1aed-4e64-ae6e-5e1a4cebf99e)
+[Upadted26thPowerBiAssignment.pdf](https://github.com/user-attachments/files/19009620/Upadted26thPowerBiAssignment.pdf)
+[India_Export_Data_2015_2024UpdatedFullWorkForReview.xlsx](https://github.com/user-attachments/files/19009611/India_Export_Data_2015_2024UpdatedFullWorkForReview.xlsx)
+[India_Export_Data_2015_2024.xlsx](https://github.com/user-attachments/files/19009607/India_Export_Data_2015_2024.xlsx)
 
-Subcategory
-
-![PowerBi5stImage](https://github.com/user-attachments/assets/d5e8f8f8-2207-4bd4-ac7c-0953f4dba02a)
-![PowerBi4stImage](https://github.com/user-attachments/assets/cc12633e-167a-4016-bee6-b8e8ad50db0f)
-![PowerBi3stImage](https://github.com/user-attachments/assets/4ece41ef-ccba-4ba1-a2a3-2fe1de5c10fd)
-![PowerBi2stImage](https://github.com/user-attachments/assets/4f60e40e-80e0-432b-86be-6bf396fdd6d3)
-![PowerBi1stImage](https://github.com/user-attachments/assets/4a456a26-3b14-424d-9dab-eafb0c329c6e)
-[26thPowerBI5_TasksinPdf.pdf](https://github.com/user-attachments/files/18983357/26thPowerBI5_TasksinPdf.pdf)
 
